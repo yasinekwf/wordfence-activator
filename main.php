@@ -2,13 +2,13 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Wordfence Security Activ@tor
- * Plugin URI:        https://bit.ly/wf-act
+ * Plugin URI:        https://github.com/yasinekwf/wordfence-activator
  * Description:       Wordfence Security Plugin Activ@tor ✨ (Let's Play a Game)
  * Version:           1.4.0
  * Requires at least: 5.9.0
  * Requires PHP:      7.2
- * Author:            moh@medhk2
- * Author URI:        https://bit.ly/medhk2
+ * Author:            KWF
+ * Author URI:        https://kodingschools.com
  **/
 
 defined( 'ABSPATH' ) || exit;
